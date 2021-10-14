@@ -1,0 +1,52 @@
+@font-face {
+    font-family: raleway;
+    src: url(../fonts/Raleway_Black.ttf)
+}
+@font-face {
+    font-family: ralewaylight;
+    src: url(../fonts/Raleway-Light.ttf)
+}
+@font-face {
+    font-family: ralewaybold;
+    src: url(../fonts/Raleway_Bold.ttf)
+}
+@font-face {
+    font-family: ralewayregular;
+    src: url(../fonts/Raleway-Regular.ttf)
+}
+@font-face {
+    font-family: ralewayitalic;
+    src: url(../fonts/Raleway-Italic.ttf)
+}
+@font-face {
+    font-family: playbolditalic;
+    src: url(../fonts/PlayfairDisplay_BoldItalic.otf)
+}
+@font-face {
+    font-family: playitalic;
+    src: url(../fonts/PlayfairDisplay_Italic.otf)
+}
+@font-face {
+    font-family: oswaldlight;
+    src: url(../fonts/Oswald_Light.ttf)
+}
+@font-face {
+    font-family: oswaldbold;
+    src: url(../fonts/Oswald_Bold.ttf)
+}
+@font-face {
+    font-family: oswaldregular;
+    src: url(../fonts/Oswald_Regular.ttf)
+}
+@font-face {
+    font-family: oswaldmedium;
+    src: url(../fonts/Oswald_Medium.ttf)
+}
+@font-face {
+    font-family: oswaldbolditalic;
+    src: url(../fonts/Oswald-BoldItalic.ttf)
+}
+@font-face {
+    font-family: oswalditalic;
+    src: url(../fonts/Oswald-RegularItalic.ttf)
+}
